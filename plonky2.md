@@ -12,3 +12,5 @@ Polygon Zero 没有选择 KZG 或其他典型的 SNARK 承诺方案，而是选�
 
 ## 参考
 https://snowolf0620.xyz/index.php/zkp/772.html
+
+[FRI协议](https://snowolf0620.xyz/index.php/zkp/634.html) 主要用于检查一个点集是否都在一个给定的多项式上
